@@ -1,0 +1,27 @@
+/*
+Theme Name: Scripts 
+Theme URI: http://www.scriptsteam.com
+Author: Scripts
+Author URI: http://www.scriptsteam.com
+Description: Personal Website and Portfolio of Scripts
+Version: 1.0
+*/
+
+/* ==================================================
+   Scripts Styles
+================================================== */
+
+div.parteInfo1{
+	
+	float: left;
+	width: 50%;
+	height: 100%;
+	text-align: center;
+}
+
+div.parteInfo2{
+	float: left;
+	width: 50%;
+	height: 100%;
+	text-align: center;
+}
